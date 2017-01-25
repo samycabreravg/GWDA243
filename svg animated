@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Title of the document</title>
+<style>
+#ladybug{
+	width: 40%;
+}
+.cls-2{
+	fill: red;
+}
+
+#ladybug:hover .cls-2{
+	fill:yellow;
+	transition: 0.4s all; 
+}
+
+</style>
+</head>
+
+<body>
+
+<svg id="ladybug" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 329.57 314.05"><defs><style>.cls-1{fill:#231f20;};}</style></defs><title>animated illustration</title><path class="cls-1" d="M188.67,86.1s59,18.17,77.24,87.39c0,0,34.24-19.92,28.9-56.63l28.27-16.78L320.83,89,293,106.72s-7.37-28.41-31.38-37.07l12.47-25L264.8,40,252,65.58S214.08,53.52,188.67,86.1Z" transform="translate(-18.3 -17.37)"/><circle class="cls-2" cx="144.86" cy="204.86" r="126.56" transform="translate(-120.73 145.06) rotate(-45)"/><circle class="cls-1" cx="82.75" cy="142.4" r="17.37" transform="translate(-94.76 82.85) rotate(-45)"/><circle class="cls-1" cx="158.61" cy="114.1" r="17.37" transform="translate(-52.53 128.2) rotate(-45)"/><circle class="cls-1" cx="237.32" cy="192.82" r="17.37" transform="translate(-85.13 206.92) rotate(-45)"/><circle class="cls-1" cx="60.1" cy="216.31" r="17.37" transform="translate(-153.65 88.48) rotate(-45)"/><circle class="cls-1" cx="138.81" cy="295.03" r="17.37" transform="translate(-186.26 167.2) rotate(-45)"/><circle class="cls-1" cx="211.77" cy="270.45" r="17.37" transform="translate(-147.51 211.59) rotate(-45)"/><path class="cls-1" d="M186,165.41L78.46,313.24S51.09,296.33,40.84,274" transform="translate(-18.3 -17.37)"/><ellipse class="cls-1" cx="274.8" cy="31.29" rx="13.65" ry="14.16" transform="translate(37.35 182.64) rotate(-44.09)"/><ellipse class="cls-1" cx="333.97" cy="92.38" rx="13.65" ry="14.16" transform="translate(11.52 241.03) rotate(-44.09)"/></svg>
+
+</body>
+
+</html>
